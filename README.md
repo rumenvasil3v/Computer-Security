@@ -1,0 +1,1 @@
+This repo demonstrates fundamental security principals by starting from classic cryptography and exploring substitution cyphers such as caesar cypher. As the module progress different projects will be added, all with their READMEs. The topics will range from cryptography to authentication and best security practices. I will update this README throughout the process.
